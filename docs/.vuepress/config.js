@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/bookmark/',
   locales: {
     '/': {
       lang: 'zh-CN',

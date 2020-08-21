@@ -22,6 +22,11 @@ module.exports = {
         text: '工具',
         ariaLabel: '工具',
         link: '/tools/'
+      },
+      {
+        text: '社区',
+        ariaLabel: '社区',
+        link: '/community/'
       }
     ],
     sidebar: {
@@ -41,6 +46,11 @@ module.exports = {
         ['', '工具'],
         ['CodeRun', '代码运行'],
         ['Image', '图像处理'],
+        ['Mirror', '国内镜像'],
+        ['Activation', '激活工具'],
+      ],
+      '/community/': [
+        ['', '社区']
       ]
     }
   }

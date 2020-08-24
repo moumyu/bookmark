@@ -15,5 +15,8 @@
 
 #### 其他
 <div class="item-row">
-    <Item img="../assets/img/item-imgs/sass.ico" title="Sass" href="https://sass-lang.com/" />
+    <Item img="../assets/img/item-imgs/caniuse.png" title="Can I use" href="https://caniuse.com/" />
+    <Item img="../assets/img/item-imgs/iconfont.ico" title="Iconfont" href="https://www.iconfont.cn/" />
+    <Item img="../assets/img/item-imgs/cssbattle.png" title="CSSBattle" href="https://cssbattle.dev/" />
+    <Item img="../assets/img/item-imgs/css-tricks.png" title="CSS-Tricks" href="https://css-tricks.com/" />
 </div>

@@ -7,7 +7,8 @@
 
 #### 超集
 <div class="item-row">
-    <Item img="../assets/img/item-imgs/typescript.png" title="TypeScript" href="https://www.tslang.cn/" />
+    <Item img="../assets/img/item-imgs/typescript.png" title="TypeScript" href="https://www.typescriptlang.org/" />
+    <Item img="../assets/img/item-imgs/typescript.png" title="TypeScript(中文网)" href="https://www.tslang.cn/" />
 </div>
 
 #### 其他

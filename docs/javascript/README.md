@@ -11,6 +11,11 @@
     <Item img="../assets/img/item-imgs/typescript.png" title="TypeScript(中文网)" href="https://www.tslang.cn/" />
 </div>
 
+#### 语法转换
+<div class="item-row">
+    <Item img="../assets/img/item-imgs/babel.svg" title="Babel" href="https://babeljs.io/" />
+</div>
+
 #### 其他
 <div class="item-row">
     <Item img="../assets/img/item-imgs/es6.png" title="ECMAScript 6 入门" href="https://es6.ruanyifeng.com/" />
